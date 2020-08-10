@@ -1,6 +1,6 @@
 # ozkanpakdil
 
-testing testing...
+Enjoys coding in different tech stack, finishes projects fast.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkanpakdil&layout=compact)
 
