@@ -3,7 +3,16 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/175554.svg)](https://stackoverflow.com/users/175554)
 Enjoys coding in different tech stack, finishes projects fast.
 
-| ![Top Langs](https://user-images.githubusercontent.com/604405/200146018-0d27692a-237a-4d57-afde-0f1f5386b677.png) | ![özkan pakdil's github stats](https://github-readme-stats.vercel.app/api?username=ozkanpakdil&show_icons=true&theme=radical) |
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/604405/200146018-0d27692a-237a-4d57-afde-0f1f5386b677.png" alt="top langs"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ozkanpakdil&show_icons=true&theme=radical" alt="özkan pakdil's github stats"/>
+    </td>
+  </tr>
+</table>
 
 ![Trophies](https://github-trophies.vercel.app/?username=ozkanpakdil)
 
