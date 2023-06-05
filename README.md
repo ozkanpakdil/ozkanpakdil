@@ -6,10 +6,10 @@ Enjoys coding in different tech stack, finishes projects fast.
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/604405/200146018-0d27692a-237a-4d57-afde-0f1f5386b677.png" alt="top langs"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ozkanpakdil&theme=github" alt="top langs"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ozkanpakdil&show_icons=true&theme=radical" alt="özkan pakdil's github stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozkanpakdil&theme=github" alt="özkan pakdil's github stats"/>
     </td>
   </tr>
 </table>
