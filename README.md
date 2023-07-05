@@ -3,6 +3,8 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/175554.svg)](https://stackoverflow.com/users/175554)
 Enjoys coding in different tech stack, finishes projects fast.
 
+![Metrics](/github-metrics.svg)
+
 <table>
   <tr>
     <td>
