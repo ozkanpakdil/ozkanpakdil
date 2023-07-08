@@ -4,6 +4,9 @@
 Enjoys coding in different tech stack, finishes projects fast.
 
 ![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.leetcode.svg)
+![Metrics](/metrics.plugin.reactions.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 <table>
   <tr>
