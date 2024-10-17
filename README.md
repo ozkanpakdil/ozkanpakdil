@@ -34,5 +34,5 @@ Enjoys coding in different tech stack, finishes projects fast.
   </tr>
 </table>
 
-
+Here is my [Redgate work GH profile](https://github.com/ozkanpakdil-redgate)
 
