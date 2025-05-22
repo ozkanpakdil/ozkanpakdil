@@ -8,6 +8,7 @@ Enjoys coding in different tech stack, finishes projects fast.
 ![Metrics](/metrics.plugin.leetcode.svg)
 ![Metrics](/metrics.plugin.reactions.svg)
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+![Metrics](/metrics.plugin.topics.icons.svg)
 
 <table>
   <tr>
