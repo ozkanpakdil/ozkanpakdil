@@ -3,6 +3,8 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/175554.svg)](https://stackoverflow.com/users/175554)
 Enjoys coding in different tech stack, finishes projects fast.
 
+[LeetCode](https://leetcode.com/ozkanpakdil/)
+
 ![Metrics](/metrics.plugin.languages.svg)
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 ![Metrics](/metrics.plugin.leetcode.svg)
