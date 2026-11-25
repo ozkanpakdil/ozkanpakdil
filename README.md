@@ -39,5 +39,5 @@ Enjoys coding in different tech stack, finishes projects fast.
 </table>
 
 ## Work Related
-- Since 2024 April I have been working in Redgate and here is my [Redgate work GH profile](https://github.com/ozkanpakdil-redgate)
+- [Redgate work GH profile](https://github.com/ozkanpakdil-redgate)
 
